@@ -1,3 +1,0 @@
-# Ignore Netlify build and cache files
-.netlify/
-.cache/
